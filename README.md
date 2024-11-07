@@ -7,7 +7,7 @@ Full Stack Software Developer | UI Designer
 A versatile Full Stack Developer, UI Designer, and Mobile Developer with a knack for creating seamless web and mobile experiences. I’m equally passionate about DevOps, ensuring that the code I build is deployed efficiently and scales smoothly across platforms.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [itz\_m.m.m](https://itz-mmm.netlify.app/about)
+* 🖥️  See my portfolio at [itz\_m.m.m](itz-mmm.netlify.app)
 * ✉️  You can contact me at [mustafamubashir87@gmail.com](mailto:mustafamubashir87@gmail.com)
 * 🧠  I'm learning React Native and DevOps
 * 🤝  I'm open to collaborating on End to end full stack projects from design to deployment
